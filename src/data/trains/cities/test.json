@@ -1,0 +1,51 @@
+[
+  {
+    "id": "test-4232",
+    "name": "This mod exists for the sole purpose of being compatibility/incompatibility test.",
+    "description": "This mod exists for the sole purpose of being compatibility/incompatibility test.",
+    "stats": {
+      "maxAcceleration": 10.1,
+      "maxDeceleration": 10.2,
+      "maxSpeed": 1900.44,
+      "maxSpeedLocalStation": 800.0,
+      "capacityPerCar": 17500,
+      "carLength": 300.0,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 3600000,
+      "trainWidth": 2.4,
+      "minStationLength": 30,
+      "maxStationLength": 39,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Siemens Mobility",
+      "CAF"
+    ]
+  }
+]

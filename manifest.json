@@ -1,0 +1,24 @@
+{
+    "id": "compatibility-test-mod",
+    "name": "This mod exists for the sole purpose of being compatibility/incompatibility test.",
+    "description": "This mod exists for the sole purpose of being compatibility/incompatibility test.",
+    "version": "v1.0.0",
+    "author": {
+		"name": "Subway Builder Modded",
+		"url": "https://github.com/subway-builder-modded"
+	},
+    "main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/subway-builder-modded/compatibility-test-mod"
+	},
+	"keywords": [
+		"subway-builder",
+		"mod"
+	],
+	"subwayBuilderVersion": "<=1.3.0",
+	"dependencies": {
+	  "subway-builder": "<=1.3.0"
+	}
+}

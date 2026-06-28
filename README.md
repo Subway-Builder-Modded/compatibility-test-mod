@@ -1,0 +1,1 @@
+This mod exists for the sole purpose of being compatibility/incompatibility test.
