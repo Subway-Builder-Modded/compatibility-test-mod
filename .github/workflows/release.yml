@@ -48,5 +48,5 @@ jobs:
           tag_name: ${{ github.ref_name }}
           name: ${{ github.ref_name }}
           files: |
-            compatibility-test-mod-${{ github.ref_name }}.zip
+            test-mod-${{ github.ref_name }}.zip
             dist/manifest.json
